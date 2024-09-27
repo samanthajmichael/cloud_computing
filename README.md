@@ -7,6 +7,6 @@
 ### Topics covered:
 - Cloud Management 📂⚙️
 - Building Data Architectures with Data Lakes 💻➡️☁️
-- Containerized Applications 🫙
+- Containerized Applications using Docker 🫙
 - Distributed Computing using Cluster Technologies (Apache Spark & Kubernetes) ✨
-- Machine Learning & Deep Learning Model Training with Deployment using Scalable/GPU-based Infrastructure 🦾
+- Machine & Deep Learning Model Training with Deployment using Scalable/GPU-based Infrastructure 🦾
